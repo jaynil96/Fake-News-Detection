@@ -3,7 +3,7 @@
 <ul>
 <li>This is an attempt to build a model to predict whether the passed news data is fake or legitamate </li>
 <li>Passive Agressive Classifier was used to find the model, after preprocing the data using TfidfVectorizer</li>
-<li>For a more comprehensive look at this model, have a look<a href = "https://doingdddm.blogspot.com/2020/06/fake-new-detection-model.html"> here </a><li>
+<li>For a more comprehensive look at this model, have a look<a href = "https://doingdddm.blogspot.com/2020/06/fake-new-detection-model.html"> here </a></li>
 </ul>
 <h2>Features</h2>
 <ul>
