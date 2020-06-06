@@ -8,7 +8,7 @@
 <h2>Features</h2>
 <ul>
 <li>Using PassiveAgressiveIdentifier to build a model
-	<li>Using the Confusion Matrix, F1Score and Jaccard Score libraries to examin the created models</li>
+	<li>Using the Confusion Matrix, F1Score and Jaccard Score libraries to examine the created models</li>
 	<li>Using Math.plotlib to plot the confusion matrix</li>
 	<li>Examining the SVM and Data Pre-processing Techniques(TfidfVectorizer)</li>
 </ul>
